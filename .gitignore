@@ -1,0 +1,20 @@
+# Data files
+data/raw/
+data/processed/
+data/.DS_Store
+
+# Results
+results/
+
+# Mac metadata
+.DS_Store
+**/.DS_Store
+
+# R artifacts
+*.Rhistory
+*.RData
+*.Rproj.user/
+
+# R Markdown artifacts
+*.Rmd
+.RDataTmp
